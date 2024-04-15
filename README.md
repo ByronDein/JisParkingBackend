@@ -1,5 +1,7 @@
 # ERP Jisparking Backend Project
 
+![image](https://github.com/jisjesuscova/erp_jis_frontend_project/assets/116112886/d549c7d1-f988-42d1-9774-b74bc3961104)
+
 ## Descripción
 
 Este proyecto es el backend del sistema ERP de Jisparking. El sistema combina la gestión de recursos humanos, ventas, abonados, recaudaciones y contratos para una gestión eficiente de estacionamientos y activos.
